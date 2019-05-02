@@ -91,7 +91,7 @@
                 color="primary"
                 flat
                 @click="postNewGame()">
-                Submit
+                Add Game
             </v-btn>
         </v-card-actions>
     </v-card>
